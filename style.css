@@ -1,0 +1,28 @@
+#pic1:hover{
+	width: 500px;
+	height: 400px;
+	transition-duration: 2s;
+	transition-delay: 1s;
+	border: 2px solid red;
+}
+#pic1 {
+	border:2px solid green;
+}
+
+.iframe:hover {
+  width: 150px;
+  height : 150px;
+  background: lightgrey;
+  border-radius: 5px;
+  transition: width 2s;
+}
+
+caption:hover{
+	width: 150px;
+  	height : 150px;
+  	background: lightgrey;
+  	border-radius: 5px;
+  	transition: width 2s;
+
+}
+
